@@ -1,4 +1,4 @@
-## Mobile Phone tracking System
+## Mobile Phone Tracking System
 
 Sample_Actions.txt is given as input to the file checker.java.
 
